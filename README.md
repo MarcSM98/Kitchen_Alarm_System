@@ -4,6 +4,7 @@
 
 ## Background
 It is a microcontroller-based project designed to enhance safety by monitoring and detecting gas leaks in kitchens. Using an Arduino microcontroller and integrated sensors, the system triggers an alarm and provides real-time alerts to ensure timely action. This project emphasizes safety and reliability, offering a practical solution to mitigate risks in households and commercial kitchens.
+
 ![Top View](https://github.com/user-attachments/assets/85fa7a92-8a03-4d3d-b724-53a156463879)
 
 ![Bottom View](https://github.com/user-attachments/assets/281dd17e-3e72-46e7-8c5f-8adb9d7f2ce9)
@@ -16,6 +17,7 @@ It is a microcontroller-based project designed to enhance safety by monitoring a
 
 ## Prototype Design
 ![Draft1](https://github.com/user-attachments/assets/9d1a4469-911d-407a-bff8-bda4b46abaa1)
+
 ![Draft2](https://github.com/user-attachments/assets/17250bc0-2b75-4de9-a0d4-85717c9cd354)
 
 
