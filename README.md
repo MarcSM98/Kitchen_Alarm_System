@@ -32,14 +32,12 @@ It is a microcontroller-based project designed to enhance safety by monitoring a
 
 
 ## Circuit Boards
-- Transistor Circuit
-  The RGB LED control circuit uses a transistor to allow 12V to flow through the LED when the Arduino pin powers the base, enabling current flow from collector to emitter to ground.
+- Transistor Circuit: The RGB LED control circuit uses a transistor to allow 12V to flow through the LED when the Arduino pin powers the base, enabling current flow from collector to emitter to ground.
 
   ![Transistor Board](https://github.com/user-attachments/assets/805c0400-75f7-432d-ab18-48e6afae2285)
 
 
-- Power Board
-  The power board converts 12V input to 5V output, providing sufficient ports to power multiple connected components.
+- Power Board: The power board converts 12V input to 5V output, providing sufficient ports to power multiple connected components.
 
   ![Power Board](https://github.com/user-attachments/assets/a1ba7fc6-2569-4d05-be07-854ab47eb417)
 
