@@ -1,4 +1,4 @@
-# Kitchen-Alarm-System
+# Kitchen Alarm System
 ![Kitchen Alarm System](https://github.com/user-attachments/assets/f2084811-0deb-4fd4-b3c3-37aeb96948fb)
 
 
