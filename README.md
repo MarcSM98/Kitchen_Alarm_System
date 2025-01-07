@@ -32,7 +32,7 @@ It is a microcontroller-based project designed to enhance safety by monitoring a
 - Arduino UNO
 
 
-## Tools
+## Technologies Used:
 - C++
 
 
