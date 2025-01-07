@@ -22,17 +22,17 @@ It is a microcontroller-based project designed to enhance safety by monitoring a
 ![Draft2](https://github.com/user-attachments/assets/17250bc0-2b75-4de9-a0d4-85717c9cd354)
 
 
-## Components
+## Electronic Components
 - Buzzer
 - LED Indicator
 - Motion Sensor
 - Fire Sensor
 - LCD Display
 - DIP Switch
-- Arduino UNO
 
 
 ## Technologies Used:
+- Arduino UNO
 - C++
 
 
